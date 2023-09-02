@@ -1,7 +1,3 @@
-Claro, vou criar um README básico para o código que você compartilhou. Um README é uma parte importante de qualquer projeto de software, pois fornece informações sobre como usar, configurar e entender o projeto. Aqui está um exemplo:
-
----
-
 # Marvel API Wrapper
 
 Este é um exemplo simples de um wrapper para a Marvel API que busca informações sobre personagens da Marvel e as armazena em um arquivo JSON local.
@@ -33,11 +29,3 @@ Certifique-se de substituir os valores dessas variáveis no código com os seus 
 ## Contribuições
 
 Este é apenas um exemplo simples de como usar a Marvel API. Sinta-se à vontade para contribuir com melhorias, como adicionar mais funcionalidades ou melhorar o tratamento de erros.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter detalhes.
-
----
-
-Lembre-se de adaptar este README de acordo com as necessidades específicas do seu projeto. Além disso, você pode adicionar informações adicionais, como requisitos do sistema, exemplos de uso e muito mais, para torná-lo mais informativo.
